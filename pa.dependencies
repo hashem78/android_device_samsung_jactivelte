@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "AOSPA-L/android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common" ,
+    "remote" : "github" ,
+    "branch" : "lollipop-mr1"
+  }
+]

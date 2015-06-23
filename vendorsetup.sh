@@ -1,2 +1,2 @@
-add_lunch_combo merk_jactivelte-userdebug
+add_lunch_combo pa_jactivelte-userdebug
 
